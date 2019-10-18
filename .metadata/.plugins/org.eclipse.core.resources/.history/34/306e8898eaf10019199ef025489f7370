@@ -1,0 +1,5 @@
+package br.com.selecao.pessoa.controller;
+
+public class ConsultarPessoaController {
+
+}
